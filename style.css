@@ -6,7 +6,7 @@
 
 /* Hier können Stiele für die ganze Webseite angegeben werden. */
 body {
-    margin: 0;
+    background-color: burlywood;
 }
 
 /* Hier werden 2 Elemente nebeneinander gepackt.
