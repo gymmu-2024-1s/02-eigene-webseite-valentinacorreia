@@ -6,7 +6,7 @@
 
 /* Hier können Stiele für die ganze Webseite angegeben werden. */
 body {
-    margin: 0;
+    background-color: burlywood;
 }
 
 /* Hier werden 2 Elemente nebeneinander gepackt.
@@ -28,5 +28,8 @@ body {
 /* Diese Regel beschreibt wie Bilder in diesem Container dargestellt werden. */
 .text-and-img img {
     border-radius: 2rem; /* Damit können die Ecken abgerundet werden. */
-    width: 100%; /* Braucht es damit das Bild im Container bleibt und nicht viel zu gross ist. */
+    width: 60%; /* Braucht es damit das Bild im Container bleibt und nicht viel zu gross ist. */
+}
+.font-1 {
+    font-family: monospace;
 }
